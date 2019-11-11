@@ -1,0 +1,49 @@
+#firstheader {
+	position: relative; 
+	top: 0%;
+	left: -26%;
+}
+
+#sunflower {
+	max-width:1.6%;
+	max-height: 1.6%;
+}
+
+#secondheader {
+	font-size: 50%;
+	margin-left: 5%;
+}
+
+.design{ 
+	float: left;
+}
+
+
+img {
+	max-width: 50%;
+	max-height: 50%;
+	margin-left: 30%;
+
+}
+
+dl {
+  list-style-type: none;
+  position:relative;
+  left: 50%;
+  padding: 0;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+ }
+
+dd {
+ 	font-size: 50%
+ }
+
+a {
+ 	color: #000;
+ 	text-decoration: none;
+ }
+
+ a:hover {
+ 	color: #778899;
+ }
