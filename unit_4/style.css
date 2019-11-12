@@ -49,3 +49,16 @@ a {
 .design{ 
 	float: left;
 }
+
+#projects{
+	margin-top: 60px
+}
+
+#about {
+	margin-top: 40px;
+
+}
+
+#prevnext{
+	margin-top: 50px;
+}
