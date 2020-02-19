@@ -51,6 +51,7 @@ ul {
  	padding: 20px;
  	float: left;
  	width: 22%;
+ 	clear:both;
  }
 
 footer {
