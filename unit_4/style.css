@@ -1,12 +1,16 @@
-h1 {
-	font-family:'Source Code Pro', cursive;
-	font-size: 35px;
-	position: relative; 
-	top: 0%;
-	left: -26%;
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
 }
 
-dl {
+nav {
+	background-color: [#E8C66A];
+	border: 1px black solid;
+	padding: 20px;
+}
+
+ul {
 	font-family: 'Monda', sans-serif;
 	font-size: 23px;
 	line-height:160%;
@@ -17,10 +21,14 @@ dl {
   	text-overflow: ellipsis;
   	white-space: nowrap;
  }
- 
-dd {
- 	font-size: 50%
+
+ main{
+ 	background-color: [#E89C6C];
+    border: 1px black solid;
+    padding: 20px;
  }
+ 
+
 
 img {
 	max-width: 50%;
