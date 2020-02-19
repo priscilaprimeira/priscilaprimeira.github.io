@@ -37,12 +37,20 @@ ul {
  	padding: 20px;
  }
 
- #right
+ #right {
  	background-color: #E582A2;
  	border: 1px black solid;
  	padding: 20px;
  	float: right;
  	width: 70%;
+ }
+
+ #left {
+ 	background-color: #E582A2;
+ 	border: 1px black solid;
+ 	padding: 20px;
+ 	float: right;
+ 	width: 22%;
  }
 
 footer {
