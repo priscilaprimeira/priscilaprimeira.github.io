@@ -2,6 +2,8 @@ header {
 	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
+	font-family: 'Monda', sans-serif;
+ 	font-size: 23px;
 }
 
 nav {
@@ -20,6 +22,7 @@ ul {
  	background-color: #E89C6C;
     border: 1px black solid;
     padding: 20px
+
  }
 
 footer {
@@ -34,10 +37,6 @@ a {
  	text-decoration: none;
  }
 
- #nome {
- 	font-family: 'Monda', sans-serif;
- 	font-size: 23px;
- }
 
  #siracusapic {
  	max-width: 30%;
@@ -46,12 +45,7 @@ a {
     padding: 20px
  }
 
- #sunflower {
- 	max-width: 30%;
-	max-height: 20%;
-	border: 1px black solid;
-    padding: 20px
- }
+
 
 
 
