@@ -22,7 +22,7 @@ ul {
     padding: 20px
  }
 
- .clearfix: after {
+.clearfix:after{
  	visibility: hidden;
  	display: block;
  	font-size: 0;
@@ -37,20 +37,12 @@ ul {
  	padding: 20px;
  }
 
- #left{
+ #right
  	background-color: #E582A2;
  	border: 1px black solid;
  	padding: 20px;
- 	float: left;
- 	width: 30%;
- }
-
- #right{
- 	background-color: #E55B88;
- 	border: 1px black solid;
- 	padding: 20px;
  	float: right;
- 	width: 62%;
+ 	width: 70%;
  }
 
 footer {
