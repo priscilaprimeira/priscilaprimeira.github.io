@@ -5,16 +5,18 @@ header {
 }
 
 nav {
-	background-color: #E8C66A;
+	background-color: #FFFFFF;
+	font-family: 'Monda', sans-serif;
+	list-style-type: none;
 	border: 1px black solid;
 	padding: 20px;
 }
 
-ul {
-	font-family: 'Monda', sans-serif;
+a {
+	background-color: #FFFFFF;
+	color: black;
 	font-size: 23px;
-	list-style-type: none;
- }
+}
 
  main{
  	background-color: #E89C6C;
