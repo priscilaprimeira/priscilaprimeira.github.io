@@ -51,7 +51,6 @@ ul {
  	padding: 20px;
  	float: left;
  	width: 22%;
- 	clear:both;
  }
 
 footer {
@@ -68,8 +67,8 @@ a {
 
 
  #siracusapic {
- 	max-width: 30%;
-	max-height: 40%;
+ 	width: 60%;
+	height: auto;
 	border: 1px black solid;
     padding: 20px
  }
