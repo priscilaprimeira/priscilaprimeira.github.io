@@ -12,14 +12,11 @@ h1{
 nav {
 	background-color: #FFFFFF;
 	font-family: 'Monda', sans-serif;
-	border: 1px black solid;
-	padding: 20px;
-	margin:0;
-	padding:0;
 }
 
 a {
 	display:block;
+	color:black;
 	font-size: 23px;
 	text-decoration:none; 
 	padding: 10px;
