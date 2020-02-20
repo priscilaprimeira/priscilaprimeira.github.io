@@ -1,31 +1,30 @@
 
-/* Basic style */
 body {
 	margin: 0;
 	font-family: 'Monda', sans-serif;
+	font-size: 16px;
 }
 
 a {
 	color:black;
-	font-size: 23px;
+	font-size: 1.5em;
 	text-decoration:none; 
 	padding: 10px;
 }
 
 a:hover {
 	color:blue;
-	font-size: 24px;
+	font-size: 1.5em;
 	padding: 10px;
 }
 
-/* main page style */
 .container {
 	height:90vh;
 }
 
 #header {
 	padding: 5px 25px;
-	font-size: 26px;
+	font-size: 1.5em;
 	border-bottom: 1px solid black;
 }
 
@@ -43,9 +42,8 @@ a:hover {
 }
 
 .main-container .nav .navbar-nav li.active a {
-	color:blue;
+	color:black;
 }
-
 
 
 .main-container .main {
