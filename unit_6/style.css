@@ -1,8 +1,11 @@
 header {
 	background-color: #FFFFFF;
-	font-family: 'Monda', sans-serif;
 	border: 1px black solid;
 	padding: 20px;
+}
+
+p{
+	font-family: 'Monda', sans-serif;
 	font-size: 26px;
 }
 
